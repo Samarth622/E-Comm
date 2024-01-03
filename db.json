@@ -1,0 +1,188 @@
+{
+  "seller": [
+    {
+      "name": "Admin",
+      "email": "commonmail622@gmail.com",
+      "password": "samarth622@",
+      "id": 1
+    }
+  ],
+  "products": [
+    {
+      "name": "Nike Air Trainer 1",
+      "price": "140",
+      "color": "violet",
+      "category": "Shoes",
+      "description": "Nike men's shoe",
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fwp-content%2Fblogs.dir%2F6%2Ffiles%2F2023%2F06%2Fair-jordan-1-stash-utility-spider-man-friends-and-family-1.jpeg?cbr=1&q=90",
+      "id": 7
+    },
+    {
+      "name": "Lenevo Legion 5 pro",
+      "price": "1100",
+      "color": "Black",
+      "category": "Laptop",
+      "description": "Gaming Laptop",
+      "image": "https://miro.medium.com/v2/resize:fit:1100/format:webp/1*J-Fu_urRMIaMkoBz59oHag.jpeg",
+      "id": 8
+    },
+    {
+      "name": "Female Dress",
+      "price": "65",
+      "color": "Blue",
+      "category": "Dress",
+      "description": "Female best dress for party",
+      "image": "https://purepng.com/public/uploads/large/purepng.com-women-dressfashion-women-dress-cloth-apparelclothingwomen-dress-631522326940onrfa.png",
+      "id": 10
+    },
+    {
+      "name": "Female Dress",
+      "price": "180",
+      "color": "White",
+      "category": "Dress",
+      "description": "Female best dress for party",
+      "image": "https://www.pngitem.com/pimgs/m/666-6663457_woman-in-dress-png-transparent-png.png",
+      "id": 11
+    },
+    {
+      "name": "Small kid dress",
+      "price": "45",
+      "color": "Black",
+      "category": "Dress",
+      "description": "Dress for small children ",
+      "image": "https://pngimg.com/uploads/dress/dress_PNG119.png",
+      "id": 12
+    },
+    {
+      "name": "Gaming Mouse",
+      "price": "210",
+      "color": "White",
+      "category": "Mouse",
+      "description": "Best mouse for gaming",
+      "image": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/31qmEeG2zAL._SX300_SY300_QL70_FMwebp_.jpg",
+      "id": 13
+    },
+    {
+      "name": "Remote Control Car",
+      "price": "429",
+      "color": "Red",
+      "category": "toy",
+      "description": "Remote Control car for kids ",
+      "image": "https://images-cdn.ubuy.co.in/63507bf9887378634f55a544-guokai-remote-control-car.jpg",
+      "id": 14
+    },
+    {
+      "name": "Iphone 13 pro",
+      "price": "900",
+      "color": "Pink",
+      "category": "Mobile",
+      "description": "Apple Product",
+      "image": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/31p5cVyRLmL._SY445_SX342_QL70_FMwebp_.jpg",
+      "id": 15
+    },
+    {
+      "name": "Iphone 13 pro max",
+      "price": "1030",
+      "color": "green",
+      "category": "Mobile",
+      "description": "Apple Product",
+      "image": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/81dT7CUY6GL._SX679_.jpg",
+      "id": 16
+    },
+    {
+      "name": "Iphone 14",
+      "price": "1045",
+      "color": "Red",
+      "category": "Mobile",
+      "description": "Apple product",
+      "image": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/611mRs-imxL._SX679_.jpg",
+      "id": 17
+    },
+    {
+      "name": "Iphone 15",
+      "price": "1140",
+      "color": "Blue",
+      "category": "Mobile",
+      "description": "Apple product",
+      "image": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/71d7rfSl0wL._SX679_.jpg",
+      "id": 18
+    },
+    {
+      "name": "Iphone 15 pro",
+      "price": "1180",
+      "color": "Blue",
+      "category": "Mobile",
+      "description": "Apple product",
+      "image": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/81SigpJN1KL._SX679_.jpg",
+      "id": 19
+    },
+    {
+      "name": "Samsung Galaxy S23 5G",
+      "price": "1050",
+      "color": "Green",
+      "category": "Mobile",
+      "description": "Samsung product",
+      "image": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/61RZDb2mQxL._SX679_.jpg",
+      "id": 20
+    }
+  ],
+  "users": [
+    {
+      "name": "Samarth",
+      "email": "guptasamarth622@gmail.com",
+      "password": "Qwerty622@",
+      "id": 1
+    },
+    {
+      "name": "Abhay",
+      "email": "abhay123@gmail.com",
+      "password": "samdyfie",
+      "id": 2
+    },
+    {
+      "name": "Anita",
+      "email": "anita8586@gnail.com",
+      "password": "anita242221",
+      "id": 3
+    },
+    {
+      "name": "Rahul",
+      "email": "rahul834@gmail.com",
+      "password": "heusbdt",
+      "id": 4
+    },
+    {
+      "name": "Mridul",
+      "email": "mridul36@gmail.com",
+      "password": "weuhcceu",
+      "id": 5
+    },
+    {
+      "name": "peter",
+      "email": "peterpakar233@gmail.com",
+      "password": "shbuhr",
+      "id": 6
+    }
+  ],
+  "cart": [],
+  "orders": [
+    {
+      "name": "Samarth Gupta",
+      "email": "guptasamarth622@gmail.com",
+      "address": "Kanoon Goyan, Jalalabad",
+      "mobile": "8736934451",
+      "totalAmount": 2536,
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "name": "Abhay",
+      "email": "abhay735@gmail.com",
+      "address": "Delhi",
+      "mobile": "9746284924",
+      "totalAmount": 1255,
+      "userId": 1,
+      "id": 3
+    }
+  ]
+}

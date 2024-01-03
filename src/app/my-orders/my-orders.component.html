@@ -1,0 +1,37 @@
+<div class="my-orders">
+    <h1>My Orders</h1>
+    <div class="row">
+        <div class="col-sm-2">
+            <span>Order</span>
+        </div>
+        <div class="col-sm-2">
+            <span>Order Id</span>
+        </div>
+        <div class="col-sm-2">
+            <span>Price</span>
+        </div>
+        <div class="col-sm-2">
+            <span>Status</span>
+        </div>
+        <div class="col-sm-2">
+            <span>Action</span>
+        </div>
+    </div>
+    <div class="row order-data" *ngFor="let order of orderData">
+        <div class="col-sm-2">
+            <img class="order-img" src="https://uxwing.com/wp-content/themes/uxwing/download/e-commerce-currency-shopping/my-orders-icon.png" alt="">
+        </div>
+        <div class="col-sm-2">
+            <span>#{{order.userId}}</span>
+        </div>
+        <div class="col-sm-2">
+            <span>{{order.totalAmount}}</span>
+        </div>
+        <div class="col-sm-2">
+            <span>In process</span>
+        </div>
+        <div class="col-sm-2">
+            <span><button class="common-button" (click)="cancelOrder(order.id)">Cancel order</button></span>
+        </div>
+    </div>
+</div>

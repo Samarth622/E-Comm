@@ -1,0 +1,74 @@
+.nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    color: blueviolet;
+    margin: 0;
+    font-size: 40px;
+}
+
+.logo a {
+    text-decoration: none;
+    color: blueviolet;
+}
+
+.nav ul {
+    display: inline-flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.nav li {
+    padding-top: 15px;
+    padding-left: 15px;
+}
+
+.nav li a {
+    text-decoration: none;
+    color: blueviolet;
+}
+
+.nav .nav-search {
+    margin-top: 5px;
+    flex: 1;
+    display: flex;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.nav .nav-search input {
+    flex: 1;
+    color: blueviolet;
+    border: 1px solid blueviolet;
+    height: 39px;
+    border-right: 0;
+}
+
+.nav .nav-search button {
+    color: blueviolet;
+    border: 1px solid blueviolet;
+    height: 39px;
+}
+
+.suggest-item {
+    position: absolute;
+    display: list-item !important;
+    z-index: 10;
+    background-color: #fff;
+    width: 300px;
+    top: 44px;
+    border: 1px solid #ddd;
+}
+
+.suggest-item li {
+    border: 1px solid #ddd;
+    padding: 5px;
+}
+
+.suggest-item li a {
+    cursor: pointer;
+    color: blueviolet;
+}

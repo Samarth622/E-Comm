@@ -1,0 +1,17 @@
+.checkout h1 {
+    color: blueviolet;
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
+
+.shipping-address h3 {
+    color: blueviolet;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.amount, h4 {
+    text-align: center;
+}
